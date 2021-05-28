@@ -1,5 +1,3 @@
 prod
 pord1
-g1
-g1111
-g22222
+dev1
